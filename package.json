@@ -1,0 +1,26 @@
+{
+  "name": "react-n-d",
+  "version": "1.0.0",
+  "description": "This is react by n ",
+ 
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/sivaganeshpersonal/react-n)"
+  },
+  "keywords": [],
+  "author": "Siva ganesh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
